@@ -30,7 +30,10 @@ PatientBookingSlots.belongsTo(DoctorTimeSlots, {
   as: "doctor_time_slots",
 });
 
-
+// db connection
 db.doctorAvailabilities = require("./DoctorAvailabilities.model")(sequelize, Sequelize);
 db.doctorTimeSlots= require("./DoctorTimeSlots.model")(sequelize, Sequelize);
 module.exports = db;
+
+
+//  
