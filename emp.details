@@ -1,5 +1,6 @@
 this is the first developer details
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
@@ -12,3 +13,8 @@ this is the second developer details      //change done by developer1
 
 this is the third developer details      //change done by developer1
 >>>>>>> Stashed changes
+=======
+this is the second developer details      //change done by developer1
+
+this is the third developer details      //change done by developer1
+>>>>>>> developer1
